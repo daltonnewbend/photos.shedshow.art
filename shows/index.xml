@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shows on My New Hugo Project</title>
+    <link>http://localhost:1313/shows/</link>
+    <description>Recent content in shows on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/shows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SHED SHOW</title>
+      <link>http://localhost:1313/shows/spring-26/</link>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/shows/spring-26/</guid>
+      <description>&lt;p&gt;thank you to &lt;a href=&#34;https://www.sonjalangford.com/&#34;&gt;sonja langford&lt;/a&gt; and &lt;a href=&#34;https://katesigridgreenwell.com&#34;&gt;kate greenwell&lt;/a&gt; for helping photograph the show. our inaugural show was a massive hit and it excites me to see how it grows.&lt;/p&gt;&#xA;&lt;p&gt;to learn more about SHED SHOW, please visit the &lt;a href=&#34;https://shedshow.art&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exhibitons on SHED SHOW</title>
+    <link>https://shedshow.art/categories/exhibitons/</link>
+    <description>Recent content in Exhibitons on SHED SHOW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>daltonnewbend@proton.me (dalton newbend)</managingEditor>
+    <webMaster>daltonnewbend@proton.me (dalton newbend)</webMaster>
+    <lastBuildDate>Sat, 23 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://shedshow.art/categories/exhibitons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>spring &#39;26</title>
+      <link>https://shedshow.art/shows/spring-26/</link>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate><author>daltonnewbend@proton.me (dalton newbend)</author>
+      <guid>https://shedshow.art/shows/spring-26/</guid>
+        <media:content url="https://shedshow.art/shows/spring-26/1.IMG_9050_hu_8fb901011b4ebcde.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://shedshow.art/shows/spring-26/1.IMG_9050_hu_8fb901011b4ebcde.jpg&quot; /&gt;
+          &lt;p&gt;our first happening&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
